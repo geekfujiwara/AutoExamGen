@@ -5,6 +5,7 @@
 
 https://github.com/user-attachments/assets/1638a3aa-3dda-416a-b0a0-fb62da1d672b
 
+### 研修プログラム構成アプリ
 
 プログラム名の
 説明文は自動
@@ -46,12 +47,34 @@ single-choiceとした場合、選択肢を追加することが出来ます。
 
 ![image](https://github.com/user-attachments/assets/08205e40-b0a4-4370-8097-b85cc29b2eed)
 
-
 作成したプログラムを別の言語に翻訳します。
 
 コンボボックスで言語を選びます。一度に多数の言語を選ぶことが出来ます。Power Automate にて非同期的に出力されるので Power Apps へのパフォーマンスの影響はありません。
 
 ![image](https://github.com/user-attachments/assets/986539e0-6515-4950-9d21-58cbd79ccfd9)
+
+> [!Note]
+> 現在、翻訳したプログラムの更新には対応していません。翻訳したプログラムを更新したいときは一度翻訳したプログラムをモデル駆動型アプリのメニューから削除してから行ってください。
+>
+> 本機能は次のアップデートで対応する予定です。アップデートに備えるためにソリューションのインポートはマネージドソリューションを利用してください。
+
+### 研修プログラム実行アプリ
+
+作成した研修プログラムを実行することが出来る、こちらはエンドユーザー向けのアプリです。
+
+![image](https://github.com/user-attachments/assets/6672dca4-96a7-4c15-91f9-9793340aaa5e)
+
+多言語に翻訳していれば、ユーザーの既定の言語に翻訳されて表示されます。ドロップダウンから希望の言語に変更することも出来ます。
+
+![image](https://github.com/user-attachments/assets/58961c0f-7b26-4419-81b4-62aee01872a5)
+
+問題の内容についても翻訳されています。
+
+![image](https://github.com/user-attachments/assets/c6343247-77f9-4df5-900b-fca79346a65c)
+
+保存しているデータだけでなく、アプリのラベルも多言語に対応しています。
+
+![image](https://github.com/user-attachments/assets/2829ffb9-3c26-419f-b05c-989e6d597951)
 
 
 
