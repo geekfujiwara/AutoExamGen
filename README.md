@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/844ab67d-bec6-4a3d-9be1-ec2b5d1b76a8
 # AutoExamGen
 ## ソリューションの構成
 * 生成AIを用いてドキュメントから研修プログラムを作成し、ユーザーに作成した研修プログラムを配布して合否を管理します。
