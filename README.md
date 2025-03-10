@@ -36,7 +36,7 @@ https://github.com/user-attachments/assets/276d96c3-e3a2-4161-81e6-5cb557f6cedb
 
 生成されたプログラムは Power Automate にデータが渡され Dataverse に登録されます。
 
-研修プログラムが作成されま表示されます。すでにDataverseに登録されている状況です。
+研修プログラムが作成され、表示されます。すでにDataverseに登録されている状況です。
 
 ![image](https://github.com/user-attachments/assets/210d3c11-c829-4b04-a381-1c45af9b2a8b)
 
