@@ -10,7 +10,7 @@
 * 研修プログラム構成アプリ
 * 研修プログラム実行アプリ (Training Player)
 
-以下ではこれらのアプリを紹介します。
+[ソリューションはこちらから](https://github.com/geekfujiwara/AutoExamGen/releases/tag/AutoExamGen)入手できます。以下では、利用方法やインストール方法について紹介していきます。
 
 ### 研修プログラム構成アプリ
 
@@ -178,7 +178,7 @@ https://github.com/user-attachments/assets/3f2872ac-1bb1-4287-af92-4adbf8ab06f1
 
 ### インストール方法
 
-ソリューションが提供されています。環境にインポートします。
+[ソリューションが提供されています](https://github.com/geekfujiwara/AutoExamGen/releases/tag/AutoExamGen)。環境にインポートします。
 
 > [!Note]
 > 今後のアップデートに対応するためにマネージドソリューションの利用を推奨します。
